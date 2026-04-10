@@ -1,4 +1,4 @@
-# Mesut Selim — Software Engineer & Dev Team Lead
+# Mesut Selim, Software Engineer & Dev Team Lead
 
 Software Engineer & Dev Team Lead with 7+ years of experience in web development, industrial software, and DevOps. Based in Belgium.
 
@@ -18,9 +18,9 @@ Self-taught developer with 7+ years at Armin Robotics as Development Team Lead. 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Armin Robotics](https://emzelim.com/en/armin)** | Dev Team Lead since 2019 — robotic control software, operator interfaces, full infrastructure | Python, Django, Vue.js, Docker |
-| **[Auction Tracker](https://emzelim.com/en/auction)** | Client project — tracking dashboard for 5,000+ lots with automated sync | FastAPI, React, Docker |
-| **[SQLModel Cache](https://emzelim.com/en/sqlmodel-cache)** | Open source — transparent Redis caching for SQLModel, published on PyPI | Python, Redis |
+| **[Armin Robotics](https://emzelim.com/en/armin)** | Dev Team Lead since 2019: robotic control software, operator interfaces, full infrastructure | Python, Django, Vue.js, Docker |
+| **[Auction Tracker](https://emzelim.com/en/auction)** | Client project: tracking dashboard for 5,000+ lots with automated sync | FastAPI, React, Docker |
+| **[SQLModel Cache](https://emzelim.com/en/sqlmodel-cache)** | Open source: transparent Redis caching for SQLModel, published on PyPI | Python, Redis |
 
 ## Skills
 
@@ -30,5 +30,5 @@ Self-taught developer with 7+ years at Armin Robotics as Development Team Lead. 
 
 ## Contact
 
-[emzelim.com](https://emzelim.com) — Based in Belgium  
+[emzelim.com](https://emzelim.com), based in Belgium  
 Languages: French · English · Turkish
