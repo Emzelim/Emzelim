@@ -3,6 +3,9 @@ name: Sync projects from site
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
