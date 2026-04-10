@@ -16,11 +16,13 @@ Self-taught developer with 7+ years at Armin Robotics as Development Team Lead. 
 
 ## Notable Projects
 
+<!-- PROJECTS_START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Armin Robotics](https://emzelim.com/en/armin)** | Dev Team Lead since 2019: robotic control software, operator interfaces, full infrastructure | Python, Django, Vue.js, Docker |
-| **[Auction Tracker](https://emzelim.com/en/auction)** | Client project: tracking dashboard for 5,000+ lots with automated sync | FastAPI, React, Docker |
-| **[SQLModel Cache](https://emzelim.com/en/sqlmodel-cache)** | Open source: transparent Redis caching for SQLModel, published on PyPI | Python, Redis |
+| **[Armin Robotics](https://emzelim.com/en/armin/)** | Software development, infrastructure, networking, team management. 7 years building everything: robotic control, intranet, VPN fleet, CI/CD. | Python, Django, Vue.js, MQTT, Proxmox, OpenVPN |
+| **[Auction Tracker](https://emzelim.com/en/auction/)** | Tracking and competitive intelligence tool for a client. 5000+ lots, automated sync, delivered in 1 month. | FastAPI, SQLAlchemy, React, Docker, Redis |
+| **[sqlmodel-cache](https://emzelim.com/en/sqlmodel-cache/)** | Open source Redis caching for SQLModel. Transparent session.get() caching with per-model TTL. Published on PyPI. | Python, Redis, SQLModel, PyPI |
+<!-- PROJECTS_END -->
 
 ## Skills
 
