@@ -21,6 +21,7 @@ Self-taught developer with 7+ years at Armin Robotics as Development Team Lead. 
 |---------|-------------|-------|
 | **[Armin Robotics](https://emzelim.com/en/armin/)** | Software development, infrastructure, networking, team management. 7 years building everything: robotic control, intranet, VPN fleet, CI/CD. | Python, Django, Vue.js, MQTT, Proxmox, OpenVPN |
 | **[Auction Tracker](https://emzelim.com/en/auction/)** | Tracking and competitive intelligence tool for a client. 5000+ lots, automated sync, delivered in 1 month. | FastAPI, SQLAlchemy, React, Docker, Redis |
+| **[Automated purchase bot](https://emzelim.com/en/automation-bot/)** | Python bot triggering automated purchases upon receiving a Telegram drop signal. Reacts within seconds, no manual intervention. | Python, Selenium, Telegram, Telethon |
 | **[sqlmodel-cache](https://emzelim.com/en/sqlmodel-cache/)** | Open source Redis caching for SQLModel. Transparent session.get() caching with per-model TTL. Published on PyPI. | Python, Redis, SQLModel, PyPI |
 <!-- PROJECTS_END -->
 
